@@ -10,6 +10,7 @@
     top: 0;
     width: 100%;
     background-color: #2874F0;
+    z-index: 100;
   }
   
   .logo img {
